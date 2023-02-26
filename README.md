@@ -1,3 +1,3 @@
-# Nginx-ALB-server - Terraform Script
+# Nginx Application Load Balancer Servers
 
-Web servers with Nginx installed fronted by Application Load Balancer
+Web servers with Nginx installed fronted by Application Load Balancer - Infrastructure as code 
