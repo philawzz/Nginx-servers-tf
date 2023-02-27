@@ -1,3 +1,3 @@
-# Nginx Application Load Balancer Servers
+# Nginx Servers
 
-Web servers with Nginx installed fronted by Application Load Balancer - Infrastructure as code 
+Web servers with Nginx installed - IaaC Terraform
